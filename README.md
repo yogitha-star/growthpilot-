@@ -1,12 +1,18 @@
 # GrowthPilot 🚀
 An AI-powered startup assistant built using Streamlit.
 
-## Features
-- Clean professional UI
+## ✨ Features
+- Clean and professional UI
 - AI-driven startup guidance
 - Easy to deploy and extend
 
-## Run locally
+## 🛠 Tech Stack
+- Python
+- Streamlit
+- Groq API
+
+## 🚀 Run Locally
+
 ```bash
-pip install -r requirements.txt
+pip install streamlit groq
 streamlit run growthpilot_v2.py
